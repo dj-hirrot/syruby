@@ -2,7 +2,9 @@ Rails.application.routes.draw do
   namespace :api do
     namespace :v1 do
       namespace :main do
-        post 'home/get_test_text'
+        namespace :home do
+          post :get_test_text
+        end
       end
     end
   end
