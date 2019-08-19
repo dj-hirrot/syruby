@@ -1,3 +1,5 @@
+require 'net/http'
+
 class Api::GooLab < Api::ApplicationRecord
   END_POINT = "https://labs.goo.ne.jp/api/hiragana"
 
