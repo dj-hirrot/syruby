@@ -1,3 +1,6 @@
+# Web page
+http://syruby.herokuapp.com/
+
 # ルビ
 出典: フリー百科事典『ウィキペディア（Wikipedia）』
 
